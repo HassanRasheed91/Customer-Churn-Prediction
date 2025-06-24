@@ -31,7 +31,7 @@ Customer churn is a critical issue for banks, as retaining existing customers is
 - Target variable: `TARGET` → 1 (churned), 0 (retained)
 - Data includes: Demographics, product usage, account activity, and more
 
-## Data Preprocessing
+## Data Preprocessing.
 - Handled missing values and duplicates
 - One-hot encoded categorical variables
 - Normalized numerical columns
